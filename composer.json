@@ -1,0 +1,12 @@
+{
+    "name": "mohamed/slim3",
+    "authors": [
+        {
+            "name": "mohamed taher grati",
+            "email": "mohamedtahergrati@yahoo.fr"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.12"
+    }
+}
